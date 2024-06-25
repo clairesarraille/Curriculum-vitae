@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Claire Sarraille, Data Scientist
 
 ## About
