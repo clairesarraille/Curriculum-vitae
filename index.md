@@ -2,8 +2,6 @@
 layout: default
 title: Claire Sarraillé, Data Scientist
 show_downloads: false
-github:
-  is_project_page: false
 ---
 
 ## About
