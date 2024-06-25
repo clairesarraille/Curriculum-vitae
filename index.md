@@ -1,8 +1,5 @@
 ---
 layout: default
----
-
----
 title: Claire Sarraillé, Data Scientist
 ---
 
