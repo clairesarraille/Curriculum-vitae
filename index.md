@@ -73,7 +73,8 @@ use by marketing team using PostgreSQL, open-source GIS software and
 Tableau.
 
 
-### RPX Corporation | *Associate Data Quality Analyst*: `04/2018 - 09/2020`
+### RPX Corporation | *Associate Data Quality Analyst*
+`04/2018 - 09/2020`
 - Wrote 200+ data quality tests in PostgreSQL and visualized data in Tableau.
 - Led 10-person document coding team & coded 60 District Court cases
 rejected by OCR per week.
