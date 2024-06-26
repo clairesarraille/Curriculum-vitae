@@ -10,11 +10,11 @@ Data Scientist with experience in Data Modeling, Statistical Analysis, Machine L
 I've developed and implemented innovative solutions, such as a multi-touch marketing attribution model, a Power BI migration process, and a public school drinking water contamination analysis for California.
 
 I hold a Bachelor's degree in Geography from the University of California, Berkeley.
-
+___
 ## Technical Skills
 Python (Pandas, NumPy), SQL, Machine Learning and Statistics (NLP, scikit-learn, statsmodels, SciPy, Pyplot, matplotlib)
 Databricks Data Analytics, Jupyter Notebooks, Git, Power BI, Tableau, Google Sheets, Google Colab, DBT, UAT
-
+___
 ## Technical Projects
 ### Airbnb Price Prediction Model | [Git Repo](https://github.com/clairesarraille/airbnb_price_prediction)
 *Predicts sustainable rate for first-time hosts looking to price their first listing*
@@ -33,7 +33,8 @@ Databricks Data Analytics, Jupyter Notebooks, Git, Power BI, Tableau, Google She
 - Designed first publicly available reverse-decay marketing attribution model based on proximity to purchases.
 - Wrote advanced SQLite window functions within Python Jupyter Notebooks to develop model.
 - Published my methodology on GitHub, as internet research shows my code for this problem is first publicly available.
-
+  
+___
 ## Experience - *(2013-Present)*
 
 
@@ -95,24 +96,24 @@ new team-members online within challenging fast-paced environment 2
 months faster than previously.
 
 ### California State University, Stanislaus
-#### *Teaching Assistant - Geographic Information Systems Science* | `10/2015 - 05/2016`
-- Analyzed the impact of contaminated water and delivered high stakes
+- #### *Teaching Assistant - Geographic Information Systems Science* | `10/2015 - 05/2016`
+  -  Analyzed the impact of contaminated water and delivered high stakes
 presentations at numerous conferences.
-- Developed a spatial data model that estimated the water systems supplying
+  - Developed a spatial data model that estimated the water systems supplying
 500+ public schools.
-- Tabulated, standardized and cleaned all publicly available water quality
+  - Tabulated, standardized and cleaned all publicly available water quality
 violation data for California.
-- Contributed 90% of the data for a Community Water Center white paper
+  - Contributed 90% of the data for a Community Water Center white paper
 which secured $10M in public funds to improve public school drinking water.
 
-#### *Student Assistant at Keck Computer Lab* | `02/2015 - 10/2015`
-- Maintained facilities and PC computers of GIS, language, and music labs.
-- Assisted students with software and login problems.
+- #### *Student Assistant at Keck Computer Lab* | `02/2015 - 10/2015`
+  - Maintained facilities and PC computers of GIS, language, and music labs.
+  - Assisted students with software and login problems.
 
-#### *Student Research Assistant for the Ecopedagogy Learning Community* | `11/2014 - 06/2015`
-- Interviewed professors about the history of environmental activities at CSU
+- #### *Student Research Assistant for the Ecopedagogy Learning Community* | `11/2014 - 06/2015`
+  - Interviewed professors about the history of environmental activities at CSU
 Stanislaus
-- Reported on activities of the university related to pedagogy of environmental
+  - Reported on activities of the university related to pedagogy of environmental
 sustainability
 
 ### The Wonderful Company | *Data Science Student Intern* | `05/2015 - 08/2015`
@@ -142,7 +143,7 @@ an on-boarding program.
 - Self-educated to learn fluency with command line tools and data analysis
 programs within 8 months.
 
-
+___
 ## Education
 
 __Flatiron School__ `08/2023 - 11/2023`
@@ -151,6 +152,7 @@ __Flatiron School__ `08/2023 - 11/2023`
 __University of California, Berkeley.__ `2009 - 2011`
 - Bachelor's degree, Geography
 
+___
 ## Courses
 
 - Databricks Academy: *8-Hour Instructor-Led Lab Course: Data Analysis with Databricks SQL* `2024`
