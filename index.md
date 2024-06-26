@@ -5,16 +5,26 @@ layout: default
 # Claire Sarraillé, Data Scientist
 
 ## About
-Data Scientist with experience in Data Modeling, Statistical Analysis, Machine Learning and Data Engineering, with an extensive background in People Analytics, Data Analytics, Business Intelligence, SQL, Python, and GIS.
+- Data Scientist with experience in Data Modeling, Statistical Analysis, Machine Learning and Data Engineering, with an extensive background in People Analytics, Data Analytics, Business Intelligence, SQL, Python, and GIS.
 
-I've developed and implemented innovative solutions, such as a multi-touch marketing attribution model, a Power BI migration process, and a public school drinking water contamination analysis for California.
+- I've developed and implemented innovative solutions, such as a multi-touch marketing attribution model, a Power BI migration process, and a public school drinking water contamination analysis for California.
 
-I hold a Bachelor's degree in Geography from the University of California, Berkeley.
+- I hold a Bachelor's degree in Geography from the University of California, Berkeley.
 
 ___
 ## Technical Skills
-Python (Pandas, NumPy), SQL, Machine Learning and Statistics (NLP, scikit-learn, statsmodels, SciPy, Pyplot, matplotlib)
-Databricks Data Analytics, Jupyter Notebooks, Git, Power BI, Tableau, Google Sheets, Google Colab, DBT, UAT
+- Python (Pandas, NumPy)
+- SQL
+- Machine Learning and Statistics (NLP, scikit-learn, statsmodels, SciPy, Pyplot, matplotlib)
+- Databricks Data Analytics
+- Jupyter Notebooks
+- Git
+- Power BI
+- Tableau
+- Google Sheets
+- Google Colab
+- DBT
+- UAT
 
 ___
 ## Technical Projects
