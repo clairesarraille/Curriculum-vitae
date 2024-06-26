@@ -39,7 +39,9 @@ ___
 ## Experience - *(2013-Present)*
 
 
-### 8th Light | *Data Scientist, People Analytics* | `05/2024 - Present`
+### 8th Light
+#### *Data Scientist, People Analytics*
+##### `05/2024 - Present`
   - Write Bash scripts to prepare document uploads to Rippling HRMS.
   - Scrape Gallup data using Python to expedite employee survey reporting.
   - Generate state and federal EEO Data Collections using advanced Google
