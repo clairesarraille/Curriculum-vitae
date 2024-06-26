@@ -147,7 +147,6 @@ topical infographics.
 `06/2013 - 05/2014`
 - Conducted quality assurance on company maps for disparate data types
 including geometry, transit routes, and aerial imagery.
-Page 4 of 5
 - Led regular training workshops for new-hires and wrote 100% of material for
 an on-boarding program.
 - Self-educated to learn fluency with command line tools and data analysis
