@@ -182,7 +182,7 @@ ___
 
 ## Databricks Academy
 `06/2024`
-- 8-Hour Instructor-Led Lab Course: Data Analysis with Databricks SQL
+- Data Analysis with Databricks SQL, 8-Hour Instructor-Led Lab Course
 
 
 ___
