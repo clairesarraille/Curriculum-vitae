@@ -149,7 +149,7 @@ ___
 __Flatiron School__ `08/2023 - 11/2023`
 - Certificate, Data Science
 
-__University of California, Berkeley.__ `2009 - 2011`
+__University of California, Berkeley__ `2009 - 2011`
 - Bachelor's degree, Geography
 
 ___
