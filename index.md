@@ -11,35 +11,35 @@ title: Claire Sarraillé, Data Scientist
 - I hold a Bachelor's degree in Geography from the University of California, Berkeley.
 
 ___
-# Technical Skills
+## Technical Skills
 Python (Pandas, NumPy), SQL (PostgreSQL, SQLite), Machine Learning and Statistics (NLP, scikit-learn, statsmodels, SciPy, Pyplot, matplotlib), Databricks Data Analytics, Jupyter Notebooks, Git, Power BI, Tableau, Google Sheets, Google Colab, DBT, UAT
 
 ___
-# Technical Projects
+## Technical Projects
 
-## Airbnb Price Prediction Model | [Git Repo](https://github.com/clairesarraille/airbnb_price_prediction)
+### Airbnb Price Prediction Model | [Git Repo](https://github.com/clairesarraille/airbnb_price_prediction)
 *Predicts sustainable rate for first-time hosts looking to price their first listing*
 - Developed regression models using Git LFS and Google Colab, while seamlessly pushing changes to GitHub.
 - Accounted for multicollinearity using Python scikit-learn libraries to apply regularization and engineer NLP features.
 - Obtained and cleaned 200K Airbnb listings for 25+ US cities using Python regular expressions and Pandas.
 
-## Predicting Customer Churn | [Git Repo](https://github.com/clairesarraille/SyriaTel_Customer_Churn)
+### Predicting Customer Churn | [Git Repo](https://github.com/clairesarraille/SyriaTel_Customer_Churn)
 *Predictive model of customer churn using the Kaggle SyriaTel dataset*
 - Built 4 logistic regression models, tuning hyperparameters using GridSearchCV, resulting in an optimized model.
 - Constructed Python pipelines for preprocessing, training, fitting, cross-validation and preventing data leakage.
 - Tuned hyperparameters using GridSearchCV, resulting in an optimized model.
 
-## Marketing Attribution Model | [Git Repo](https://github.com/clairesarraille/parabolic_attribution) | [Blog Post](https://medium.com/@thegreenbug/polygon-shaped-marketing-attribution-model-sql-and-python-follow-along-bad50ffefa0f)
+### Marketing Attribution Model | [Git Repo](https://github.com/clairesarraille/parabolic_attribution) | [Blog Post](https://medium.com/@thegreenbug/polygon-shaped-marketing-attribution-model-sql-and-python-follow-along-bad50ffefa0f)
 *Parabolic-shaped marketing attribution model using Python and SQLite*
 - Designed first publicly available reverse-decay marketing attribution model based on proximity to purchases.
 - Wrote advanced SQLite window functions within Python Jupyter Notebooks to develop model.
 - Published my methodology on GitHub, as internet research shows my code for this problem is first publicly available.
   
 ___
-# Experience | *2013-Present*
+## Experience | *2013-Present*
 
 
-## 8th Light | *Data Scientist, People Analytics*
+### 8th Light | *Data Scientist, People Analytics*
 `05/2024 - Present`
   - Write Bash scripts to prepare document uploads to Rippling HRMS.
   - Scrape Gallup data using Python to expedite employee survey reporting.
@@ -49,7 +49,7 @@ Sheets formulas and pivot tables.
 facing presentations.
 
 
-## Gap Inc. | *Senior Analyst, People Analytics*
+### Gap Inc. | *Senior Analyst, People Analytics*
 `09/2022 - 05/2023`
   - Managed Power BI migration from manual to automated refresh process,
 saving 40+ hours per month.
