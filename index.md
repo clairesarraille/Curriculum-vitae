@@ -68,7 +68,7 @@ ethnicity, turnover and staffing dashboards.
 - Designed company’s first multi-touch marketing attribution model using
 PostgreSQL and data engineering tool DBT.
 - Contributed data engineering work to model and deploy marketing data using
-DBT, PostgreSQL, and Matillion.
+DBT, PostgreSQL, and ETL tool Matillion.
 - Translated machine-generated SQL to concise marketing analytics logic for
 25+ dashboards in Tableau.
 - Developed enhancements to code base including item-level coupon
