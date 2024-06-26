@@ -121,11 +121,11 @@ violation data for California.
   - Contributed 90% of the data for a Community Water Center white paper
 which secured $10M in public funds to improve public school drinking water.
 
-- ### *Student Assistant at Keck Computer Lab* (02/2015 - 10/2015)
+- ### *Student Assistant - Keck Computer Lab* (02/2015 - 10/2015)
   - Maintained facilities and PC computers of GIS, language, and music labs.
   - Assisted students with software and login problems.
 
-- ### *Student Research Assistant for the Ecopedagogy Learning Community* (11/2014 - 06/2015)
+- ### *Student Research Assistant - Ecopedagogy Learning Community* (11/2014 - 06/2015)
   - Interviewed professors about the history of environmental activities at CSU
 Stanislaus
   - Reported on activities of the university related to pedagogy of environmental
