@@ -1,6 +1,11 @@
 ---
 layout: default
 title: Claire Sarraillé, Data Scientist
+nav:
+ - name: "Blog"
+   link: "https://medium.com/@thegreenbug"
+ - name: "GitHub"
+   link: "https://github.com/clairesarraille"
 ---
 
 ## About
