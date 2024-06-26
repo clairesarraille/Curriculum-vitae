@@ -4,18 +4,22 @@ layout: default
 
 # Claire Sarraillé, Data Scientist
 
+__
 ## About
 Data Scientist with experience in Data Modeling, Statistical Analysis, Machine Learning and Data Engineering, with an extensive background in People Analytics, Data Analytics, Business Intelligence, SQL, Python, and GIS.
 
 I've developed and implemented innovative solutions, such as a multi-touch marketing attribution model, a Power BI migration process, and a public school drinking water contamination analysis for California.
 
 I hold a Bachelor's degree in Geography from the University of California, Berkeley.
+
 ___
 ## Technical Skills
 Python (Pandas, NumPy), SQL, Machine Learning and Statistics (NLP, scikit-learn, statsmodels, SciPy, Pyplot, matplotlib)
 Databricks Data Analytics, Jupyter Notebooks, Git, Power BI, Tableau, Google Sheets, Google Colab, DBT, UAT
+
 ___
 ## Technical Projects
+
 ### Airbnb Price Prediction Model | [Git Repo](https://github.com/clairesarraille/airbnb_price_prediction)
 *Predicts sustainable rate for first-time hosts looking to price their first listing*
 - Developed regression models using Git LFS and Google Colab, while seamlessly pushing changes to GitHub.
@@ -155,6 +159,6 @@ __University of California, Berkeley__ | `2009 - 2011`
 ___
 ## Courses
 
-- Databricks Academy: *8-Hour Instructor-Led Lab Course: Data Analysis with Databricks SQL* | `2024`
+__Databricks Academy__ *8-Hour Instructor-Led Lab Course: Data Analysis with Databricks SQL* | `2024`
 
 ___
