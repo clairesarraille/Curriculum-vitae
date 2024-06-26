@@ -169,14 +169,13 @@ programs within 8 months.
 ___
 # Education
 
-## Flatiron School
-`08/2023 - 11/2023`
-- *Data Science Program*, 15-Week Full-Time Immersive
-
-
 ## University of California, Berkeley
 `2009 - 2011`
 - BA, Geography
+
+## Flatiron School
+`08/2023 - 11/2023`
+- *Data Science Program*, 15-Week Full-Time Immersive
 
 ___
 # Courses
