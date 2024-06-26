@@ -36,8 +36,7 @@ Databricks Data Analytics, Jupyter Notebooks, Git, Power BI, Tableau, Google She
 ## Experience - *(2013-Present)*
 
 
-### 8th Light | *Data Scientist, People Analytics*
-#### `March 2024 - Present`
+### 8th Light | *Data Scientist, People Analytics* | March 2024 - Present
   - Write Bash scripts to prepare document uploads to Rippling HRMS.
   - Scrape Gallup data using Python to expedite employee survey reporting.
   - Generate state and federal EEO Data Collections using advanced Google
@@ -46,8 +45,7 @@ Sheets formulas and pivot tables.
 facing presentations.
 
 
-### Gap Inc. | *Senior Analyst, People Analytics*
-#### `September 2022 - May 2023`
+### Gap Inc. | *Senior Analyst, People Analytics* | 09/2022 - 05/2023
   - Managed Power BI migration from manual to automated refresh process,
 saving 40+ hours per month.
   - Wrote Databricks SQL and Python to edit tables for Power BI ingestion based
@@ -57,8 +55,7 @@ on evolving stakeholder needs.
   - Wrote DAX and M code in Power BI to implement regular refreshes for
 ethnicity, turnover and staffing dashboards.
 
-### Dolls Kill | *Senior Business Intelligence Analyst*
-#### `October 2021 - March 2022`
+### Dolls Kill | *Senior Business Intelligence Analyst* | 10/2021 - 03/2022
 - Designed company’s first multi-touch marketing attribution model using
 PostgreSQL and data engineering tool DBT.
 - Contributed data engineering work to model and deploy marketing data using
@@ -73,8 +70,7 @@ use by marketing team using PostgreSQL, open-source GIS software and
 Tableau.
 
 
-### RPX Corporation | *Associate Data Quality Analyst*
-#### `April 2018 - September 2020`
+### RPX Corporation | *Associate Data Quality Analyst* | 04/2018 - 09/2020
 - Wrote 200+ data quality tests in PostgreSQL and visualized data in Tableau.
 - Led 10-person document coding team & coded 60 District Court cases
 rejected by OCR per week.
@@ -86,8 +82,7 @@ human review.
 - Collaborated with Analytics team on presentations to clients, conferences,
 news articles and speeches.
 
-### Welocalize | *Apple Maps Data Quality Tester*
-#### `September 2016 - December 2017`
+### Welocalize | *Apple Maps Data Quality Tester* | 09/2016 - 12/2017
 - Conducted in depth internet research to perform ground-truthing, comparing
 100's of transit routes in numerous cities across Europe, Australia, and
 Southeast Asia with official sources to verify accuracy.
@@ -99,8 +94,7 @@ new team-members online within challenging fast-paced environment 2
 months faster than previously.
 
 ### California State University, Stanislaus
-#### *Teaching Assistant - Geographic Information Systems Science*
-##### `October 2015 - May 2016`
+#### *Teaching Assistant - Geographic Information Systems Science* | 10/2015 - 05/2016
 - Analyzed the impact of contaminated water and delivered high stakes
 presentations at numerous conferences.
 - Developed a spatial data model that estimated the water systems supplying
@@ -110,20 +104,17 @@ violation data for California.
 - Contributed 90% of the data for a Community Water Center white paper
 which secured $10M in public funds to improve public school drinking water.
 
-#### *Student Assistant at Keck Computer Lab*
-##### `February 2015 - October 2015`
+#### *Student Assistant at Keck Computer Lab* | 02/2015 - 10/2015
 - Maintained facilities and PC computers of GIS, language, and music labs.
 - Assisted students with software and login problems.
 
-#### *Student Research Assistant for the Ecopedagogy Learning Community*
-##### `November 2014 - June 2015`
+#### *Student Research Assistant for the Ecopedagogy Learning Community* | 11/2014 - 06/2015
 - Interviewed professors about the history of environmental activities at CSU
 Stanislaus
 - Reported on activities of the university related to pedagogy of environmental
 sustainability
 
-### The Wonderful Company | *Data Science Student Intern*
-#### `May 2015 - August 2015`
+### The Wonderful Company | *Data Science Student Intern* | 05/2015 - 08/2015
 - Successfully scripted highly complex algorithms and the transfer of field data
 in Python and R.
 - Performed research & development, in-situ data collection, analysis, and
@@ -134,16 +125,14 @@ and improve efficiency of project flow.
 - Worked with NIR and RGB imagery.
 - Conducted fieldwork with sensors & sensor data.
 
-### MapLight | *Election Transparency Intern*
-#### `June 2014 - July 2014`
+### MapLight | *Election Transparency Intern* | 06/2014 - 07/2014
 - Shared some ways that money in politics impacts net neutrality by designing
 topical infographics.
 - Performed research on members of Congress.
 - Designed content.
 - Tracked social media reach.
 
-### Apple | *Geospatial Data Analyst*
-#### `June 2013 - May 2014`
+### Apple | *Geospatial Data Analyst* | 06/2013 - 05/2014
 - Conducted quality assurance on company maps for disparate data types
 including geometry, transit routes, and aerial imagery.
 Page 4 of 5
