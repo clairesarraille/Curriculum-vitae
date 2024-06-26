@@ -176,7 +176,7 @@ ___
 
 ## University of California, Berkeley
 `2009 - 2011`
-- Bachelor's degree, Geography
+- BA, Geography
 
 ___
 # Courses
