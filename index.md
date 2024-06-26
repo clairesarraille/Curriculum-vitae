@@ -36,7 +36,7 @@ ___
 - Published my methodology on GitHub, as internet research shows my code for this problem is first publicly available.
   
 ___
-# Experience | *2013 - Present*
+# Experience, *2013 - Present*
 
 
 ## 8th Light | *Data Scientist, People Analytics*
@@ -109,7 +109,7 @@ months faster than previously.
 
 ***
 
-## California State University, Stanislaus | Graduate Student and Student Assistant
+## California State University, Stanislaus | *Graduate Student and Student Assistant*
 `11/2014 - 05/2016`
 - ### *Teaching Assistant - Geographic Information Systems Science* (10/2015 - 05/2016)
   -  Analyzed the impact of contaminated water and delivered high stakes
