@@ -36,10 +36,11 @@ ___
 - Published my methodology on GitHub, as internet research shows my code for this problem is first publicly available.
   
 ___
-## Experience - *(2013-Present)*
+## Experience | *2013-Present*
 
 
-### 8th Light | *Data Scientist, People Analytics*: `05/2024 - Present`
+### 8th Light | *Data Scientist, People Analytics*
+`05/2024 - Present`
   - Write Bash scripts to prepare document uploads to Rippling HRMS.
   - Scrape Gallup data using Python to expedite employee survey reporting.
   - Generate state and federal EEO Data Collections using advanced Google
@@ -48,7 +49,8 @@ Sheets formulas and pivot tables.
 facing presentations.
 
 
-### Gap Inc. | *Senior Analyst, People Analytics*: `09/2022 - 05/2023`
+### Gap Inc. | *Senior Analyst, People Analytics*
+`09/2022 - 05/2023`
   - Managed Power BI migration from manual to automated refresh process,
 saving 40+ hours per month.
   - Wrote Databricks SQL and Python to edit tables for Power BI ingestion based
@@ -58,7 +60,8 @@ on evolving stakeholder needs.
   - Wrote DAX and M code in Power BI to implement regular refreshes for
 ethnicity, turnover and staffing dashboards.
 
-### Dolls Kill | *Senior Business Intelligence Analyst*: `10/2021 - 03/2022`
+### Dolls Kill | *Senior Business Intelligence Analyst*
+`10/2021 - 03/2022`
 - Designed company’s first multi-touch marketing attribution model using
 PostgreSQL and data engineering tool DBT.
 - Contributed data engineering work to model and deploy marketing data using
@@ -86,7 +89,8 @@ human review.
 - Collaborated with Analytics team on presentations to clients, conferences,
 news articles and speeches.
 
-### Welocalize | *Apple Maps Data Quality Tester*: `09/2016 - 12/2017`
+### Welocalize | *Apple Maps Data Quality Tester*
+`09/2016 - 12/2017`
 - Conducted in depth internet research to perform ground-truthing, comparing
 100's of transit routes in numerous cities across Europe, Australia, and
 Southeast Asia with official sources to verify accuracy.
@@ -98,7 +102,8 @@ new team-members online within challenging fast-paced environment 2
 months faster than previously.
 
 ### California State University, Stanislaus
-- #### *Teaching Assistant - Geographic Information Systems Science*: `10/2015 - 05/2016`
+- #### *Teaching Assistant - Geographic Information Systems Science*
+`10/2015 - 05/2016`
   -  Analyzed the impact of contaminated water and delivered high stakes
 presentations at numerous conferences.
   - Developed a spatial data model that estimated the water systems supplying
@@ -108,17 +113,20 @@ violation data for California.
   - Contributed 90% of the data for a Community Water Center white paper
 which secured $10M in public funds to improve public school drinking water.
 
-- #### *Student Assistant at Keck Computer Lab*: `02/2015 - 10/2015`
+- #### *Student Assistant at Keck Computer Lab*
+`02/2015 - 10/2015`
   - Maintained facilities and PC computers of GIS, language, and music labs.
   - Assisted students with software and login problems.
 
-- #### *Student Research Assistant for the Ecopedagogy Learning Community*: `11/2014 - 06/2015`
+- #### *Student Research Assistant for the Ecopedagogy Learning Community*
+`11/2014 - 06/2015`
   - Interviewed professors about the history of environmental activities at CSU
 Stanislaus
   - Reported on activities of the university related to pedagogy of environmental
 sustainability
 
-### The Wonderful Company | *Data Science Student Intern*: `05/2015 - 08/2015`
+### The Wonderful Company | *Data Science Student Intern*
+`05/2015 - 08/2015`
 - Successfully scripted highly complex algorithms and the transfer of field data
 in Python and R.
 - Performed research & development, in-situ data collection, analysis, and
@@ -129,14 +137,16 @@ and improve efficiency of project flow.
 - Worked with NIR and RGB imagery.
 - Conducted fieldwork with sensors & sensor data.
 
-### MapLight | *Election Transparency Intern*: `06/2014 - 07/2014`
+### MapLight | *Election Transparency Intern*
+`06/2014 - 07/2014`
 - Shared some ways that money in politics impacts net neutrality by designing
 topical infographics.
 - Performed research on members of Congress.
 - Designed content.
 - Tracked social media reach.
 
-### Apple | *Geospatial Data Analyst*: `06/2013 - 05/2014`
+### Apple | *Geospatial Data Analyst*
+`06/2013 - 05/2014`
 - Conducted quality assurance on company maps for disparate data types
 including geometry, transit routes, and aerial imagery.
 Page 4 of 5
@@ -148,15 +158,18 @@ programs within 8 months.
 ___
 ## Education
 
-### __Flatiron School__: `08/2023 - 11/2023`
+### __Flatiron School__
+`08/2023 - 11/2023`
 - Certificate, Data Science
 
-### __University of California, Berkeley__ : `2009 - 2011`
+### __University of California, Berkeley__
+`2009 - 2011`
 - Bachelor's degree, Geography
 
 ___
 ## Courses
 
-### __Databricks Academy__ *8-Hour Instructor-Led Lab Course: Data Analysis with Databricks SQL*: `06/2024`
+### __Databricks Academy__ *8-Hour Instructor-Led Lab Course: Data Analysis with Databricks SQL*
+`06/2024`
 
 ___
