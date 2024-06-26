@@ -13,7 +13,7 @@ layout: default
 
 ___
 ## Technical Skills
-- Python (`Pandas`, `NumPy`), SQL (PostgreSQL, SQLite), Machine Learning and Statistics (NLP, `scikit-learn`, `statsmodels`, `SciPy`, `Pyplot`, `matplotlib`), Databricks Data Analytics, Jupyter Notebooks, Git, Power BI, Tableau, Google Sheets, Google Colab, DBT, UAT
+Python (`Pandas`, `NumPy`), SQL (PostgreSQL, SQLite), Machine Learning and Statistics (NLP, `scikit-learn`, `statsmodels`, `SciPy`, `Pyplot`, `matplotlib`), Databricks Data Analytics, Jupyter Notebooks, Git, Power BI, Tableau, Google Sheets, Google Colab, DBT, UAT
 
 ___
 ## Technical Projects
