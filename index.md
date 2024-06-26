@@ -78,6 +78,7 @@ model using DBT and Git.
 use by marketing team using PostgreSQL, open-source GIS software and
 Tableau.
 
+***
 
 ### RPX Corporation | *Associate Data Quality Analyst*
 `04/2018 - 09/2020`
@@ -92,6 +93,8 @@ human review.
 - Collaborated with Analytics team on presentations to clients, conferences,
 news articles and speeches.
 
+***
+
 ### Welocalize | *Apple Maps Data Quality Tester*
 `09/2016 - 12/2017`
 - Conducted in depth internet research to perform ground-truthing, comparing
@@ -103,6 +106,8 @@ bugs by 70% in live data.
 - Trained newly hired staff, including preparing on-boarding materials, bringing
 new team-members online within challenging fast-paced environment 2
 months faster than previously.
+
+***
 
 ### California State University, Stanislaus | Graduate Student and Student Assistant
 `11/2014-05/2016`
@@ -126,6 +131,8 @@ Stanislaus
   - Reported on activities of the university related to pedagogy of environmental
 sustainability
 
+***
+
 ### The Wonderful Company | *Data Science Student Intern*
 `05/2015 - 08/2015`
 - Successfully scripted highly complex algorithms and the transfer of field data
@@ -138,6 +145,8 @@ and improve efficiency of project flow.
 - Worked with NIR and RGB imagery.
 - Conducted fieldwork with sensors & sensor data.
 
+***
+
 ### MapLight | *Election Transparency Intern*
 `06/2014 - 07/2014`
 - Shared some ways that money in politics impacts net neutrality by designing
@@ -145,6 +154,8 @@ topical infographics.
 - Performed research on members of Congress.
 - Designed content.
 - Tracked social media reach.
+
+***
 
 ### Apple | *Geospatial Data Analyst*
 `06/2013 - 05/2014`
