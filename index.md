@@ -171,7 +171,8 @@ ___
 
 ## Flatiron School
 `08/2023 - 11/2023`
-- Certificate, Data Science
+- *Data Science Program*, 15-Week Full-Time Immersive
+
 
 ## University of California, Berkeley
 `2009 - 2011`
@@ -182,7 +183,7 @@ ___
 
 ## Databricks Academy
 `06/2024`
-- Data Analysis with Databricks SQL, 8-Hour Instructor-Led Lab Course
+- *Data Analysis with Databricks SQL*, 8-Hour Instructor-Led Lab Course
 
 
 ___
