@@ -48,6 +48,7 @@ Sheets formulas and pivot tables.
   - Design templates for reporting, visualizations, dashboarding, and company-
 facing presentations.
 
+***
 
 ### Gap Inc. | *Senior Analyst, People Analytics*
 `09/2022 - 05/2023`
@@ -59,6 +60,8 @@ on evolving stakeholder needs.
 100% elimination of Power BI errors.
   - Wrote DAX and M code in Power BI to implement regular refreshes for
 ethnicity, turnover and staffing dashboards.
+
+***
 
 ### Dolls Kill | *Senior Business Intelligence Analyst*
 `10/2021 - 03/2022`
