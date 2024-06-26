@@ -1,2 +1,6 @@
 remote_theme: ryanmcdermott/jekyll-latex
 title: Claire Sarraillé, Data Scientist
+# Author Info
+author_name:        false
+author_email:       false
+author_gravatar:    false
