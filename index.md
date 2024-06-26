@@ -145,16 +145,12 @@ programs within 8 months.
 
 ## Education
 
-`08/2023 - 11/2023`
-__Flatiron School__
+__Flatiron School__ `08/2023 - 11/2023`
 - Certificate, Data Science
 
-
-`2009 - 2011`
-__University of California, Berkeley.__
+__University of California, Berkeley.__ `2009 - 2011`
 - Bachelor's degree, Geography
 
 ## Courses
 
-`2024`
-- Databricks Academy: *8-Hour Instructor-Led Lab Course: Data Analysis with Databricks SQL*
+- Databricks Academy: *8-Hour Instructor-Led Lab Course: Data Analysis with Databricks SQL* `2024`
