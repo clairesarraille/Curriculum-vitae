@@ -13,9 +13,9 @@ layout: default
 
 ___
 ## Technical Skills
-- Python (Pandas, NumPy)
+- Python (`Pandas`, `NumPy`)
 - SQL
-- Machine Learning and Statistics (NLP, scikit-learn, statsmodels, SciPy, Pyplot, matplotlib)
+- Machine Learning and Statistics (NLP, `scikit-learn`, `statsmodels`, `SciPy`, `Pyplot`, `matplotlib`)
 - Databricks Data Analytics
 - Jupyter Notebooks
 - Git
