@@ -1,5 +1,9 @@
+# Claire Sarraillé, Data Scientist
+
 # About
-- Data Scientist with experience in Data Modeling, Statistical Analysis, Machine Learning and Data Engineering, with an extensive background in People Analytics, Data Analytics, Business Intelligence, SQL, Python, and GIS.
+
+- Data Scientist with experience in data modeling, statistical analysis, machine learning, and data engineering, with an extensive background in Marketing Analytics, People Analytics, Data Analytics, Business Intelligence, SQL, Python, Data Quality, and GIS.
+Avid fiber arts enthusiast. Always looking for knitting and running buddies!
 
 - I've developed and implemented innovative solutions, such as a multi-touch marketing attribution model, a Power BI migration process, and a public school drinking water contamination analysis for California.
 
@@ -7,7 +11,7 @@
 
 ___
 # Technical Skills
-Python (Pandas, NumPy), SQL (PostgreSQL, SQLite), Machine Learning and Statistics (NLP, scikit-learn, statsmodels, SciPy, Pyplot, matplotlib), Databricks Data Analytics, Jupyter Notebooks, Git, Power BI, Tableau, Google Sheets, Google Colab, DBT, UAT
+Python (Pandas, NumPy), SQL (PostgreSQL, SQLite), Machine Learning and Statistics (NLP, scikit-learn, statsmodels, SciPy, Pyplot, matplotlib), Databricks Data Analytics, Jupyter Notebooks, Git, Power BI, Tableau, Google Sheets, Google Colab, DBT, UAT (User Acceptance Testing).
 
 ___
 # Technical Projects
@@ -33,14 +37,22 @@ ___
 ___
 # Experience, *2013 - Present*
 
+## Old Navy | *Store Associate*
+`10/2024 - Present`
+  - Actively implement RFID tagging to track merchandise movement between back of house and sales floor, gaining insights into
+retail logistics, inventory flow, and opportunities for operational analytics to drive process improvements.
+  - Contribute to event planning, visual merchandising and store layout strategy for Old Navy board of directors event.
+  - Engage customers in personalized conversations to understand their needs and create an outstanding in-store experience.
+  - Gather valuable insights into purchasing behavior, inventory demand, and marketing effectiveness via customer interactions.
+
+***
 
 ## 8th Light | *Data Scientist, People Analytics*
-`05/2024 - Present`
-  - Write Bash scripts to prepare document uploads to Rippling HRMS.
-  - Scrape Gallup data using Python to expedite employee survey reporting.
-  - Generate state and federal EEO Data Collections using advanced Google
+`03/2024 - 11/2024`
+  - Wrote Bash and Python scripts to prepare document uploads to Rippling HRMS.
+  - Generated state and federal EEO Data Collections using advanced Google
 Sheets formulas and pivot tables.
-  - Design templates for reporting, visualizations, dashboarding, and company-
+  - Designed templates for reporting, visualizations, dashboards, and company-
 facing presentations.
 
 ***
