@@ -64,7 +64,7 @@ facing presentations.
 
 ## Gap Inc. | *Senior Analyst, People Analytics*
 `09/2022 - 05/2023`
-  - Managed Power BI migration from manual to automated refresh process,saving 40+ hours per month.
+  - Managed Power BI migration from manual to automated refresh process, saving 40+ hours per month.
   - Wrote DAX and M code in Power BI to implement regular refreshes for ethnicity, turnover and staffing dashboards.
   - Wrote Databricks SQL and Python to edit tables for Power BI ingestion based on evolving stakeholder needs.
   - Led UAT process by managing end-to-end testing and release of HR dashboards, collaborating with Old Navy HR, data engineering, and Gap Inc. leadership, and achieving 100% elimination of Power BI errors.
