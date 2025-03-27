@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Claire Sarraillé, Data Scientist
----# Claire Sarraillé, Data Scientist
+---
+# Claire Sarraillé, Data Scientist
 
 # About
 
