@@ -3,8 +3,6 @@ layout: default
 title: Claire Sarraillé, Data Scientist
 ---
 
-# Claire Sarraillé, Data Scientist
-
 # About
 
 - Data Scientist with experience in data modeling, statistical analysis, machine learning, and data engineering, with an extensive background in Marketing Analytics, People Analytics, Data Analytics, Business Intelligence, SQL, Python, Data Quality, and GIS.
