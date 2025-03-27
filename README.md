@@ -43,14 +43,16 @@ ___
 retail logistics, inventory flow, and opportunities for operational analytics to drive process improvements.
   - Contribute to event planning, visual merchandising and store layout strategy for Old Navy board of directors event.
   - Engage customers in personalized conversations to understand their needs and create an outstanding in-store experience.
-  - Gather valuable insights into purchasing behavior, inventory demand, and marketing effectiveness via customer interactions.
+  - Gather valuable insights into inventory demand and marketing effectiveness via customer interactions.
+  - Gain insights into pricing strategy by sorting returned merchandise, observing markdown patterns, and identifying factors influencing clearance versus full-price decisions.
+  - Develop pricing analysis acumen by observing customer purchasing motivations, price sensitivities, and perceptions of product value.
 
 ***
 
 ## 8th Light | *Data Scientist, People Analytics*
 `03/2024 - 11/2024`
   - Wrote Bash and Python scripts to prepare document uploads to Rippling HRMS.
-  - Generated state and federal EEO Data Collections using advanced Google
+  - Generated state and federal EEO (Equal Employment Opportunity) Data Collections using advanced Google
 Sheets formulas and pivot tables.
   - Designed templates for reporting, visualizations, dashboards, and company-
 facing presentations.
@@ -59,14 +61,11 @@ facing presentations.
 
 ## Gap Inc. | *Senior Analyst, People Analytics*
 `09/2022 - 05/2023`
-  - Managed Power BI migration from manual to automated refresh process,
-saving 40+ hours per month.
-  - Wrote Databricks SQL and Python to edit tables for Power BI ingestion based
-on evolving stakeholder needs.
-  - Managed UAT process with stakeholders and data engineers, resulting in
-100% elimination of Power BI errors.
-  - Wrote DAX and M code in Power BI to implement regular refreshes for
-ethnicity, turnover and staffing dashboards.
+  - Managed Power BI migration from manual to automated refresh process, saving 40+ hours per month.
+  - Wrote DAX and M code in Power BI to implement regular refreshes for ethnicity, turnover and staffing dashboards.
+  - Wrote Databricks SQL and Python to edit tables for Power BI ingestion based on evolving stakeholder needs.
+  - Led UAT process by managing end-to-end testing and release of HR dashboards, collaborating with Old Navy HR, data engineering, and Gap Inc. leadership, and achieving 100% elimination of Power BI errors.
+  - Developed comprehensive documentation outlining metric definitions and procedures for refreshing and editing dashboards.
 
 ***
 
@@ -78,7 +77,7 @@ PostgreSQL and data engineering tool DBT.
 DBT, PostgreSQL, and ETL tool Matillion.
 - Translated machine-generated SQL to concise marketing analytics logic for
 25+ dashboards in Tableau.
-- Developed enhancements to code base including item-level coupon
+- Built models and developed enhancements to code base including item-level coupon
 attribution, browser-to-email customer identification, and product ranking
 model using DBT and Git.
 - Cleaned all US address data and mapped customer density by zip code for
@@ -89,15 +88,15 @@ Tableau.
 
 ## RPX Corporation | *Associate Data Quality Analyst*
 `04/2018 - 09/2020`
-- Advised engineering team by providing Python and SQL code for
-implementing ETL data quality tests.
+- Advised engineering team by providing Python and SQL code for implementing ETL data quality tests.
 - Wrote 200+ data quality tests in PostgreSQL and visualized data in Tableau.
-- Led 10-person document coding team & coded 60 District Court cases
-rejected by OCR per week.
-- Designed testing to detect failures in coding and data quality issues for
-human review.
-- Collaborated with Analytics team on presentations to clients, conferences,
-news articles and speeches.
+- Led 10-person document coding team & coded 60 District Court cases rejected by OCR per week.
+- Designed testing to detect failures in coding and data quality issues for human review.
+- Oversaw company-wide data support desk operations, fulfilling 10+ daily requests from employees and senior executives for data exports, database updates, CRM modifications, and custom dashboard development.
+- Collaborated with Analytics team on presentations to clients, conferences, news articles and speeches by desigining visualizations and editing content.
+- Led training for new employees for on-site data quality team and offshore document coding team.
+- Authored comprehensive process documentation to support onboarding and ensure process consistency.
+
 
 ***
 
